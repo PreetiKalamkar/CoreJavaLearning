@@ -1,6 +1,4 @@
-package src.basic_04;
-
-import java.util.Scanner;
+package src.basic_04_17Dec;
 
 public class Lab054 {
 
